@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 
 Describe any challenges encountered while building the app.
 
-- I don't know why but my launch screen didn't work even though I've added one in the file
+- I don't know why but my launch screen didn't work even though I've added one in the file. After I added the launchscreen image, my program will fail during the first simulation, but after that it'll be fine. I don't know why so I eventually remove the launchcreen function.
 
 ## License
 
