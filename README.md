@@ -40,6 +40,8 @@ The following **additional** features are implemented:
 
 Describe any challenges encountered while building the app.
 
+- when adding 'reset' function, I forgot to define tintColor and navigationItem and fail to show reset when simulating.
+
 ## License
 
     Copyright [2024] [Xiaoai Zhu]
