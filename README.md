@@ -1,46 +1,40 @@
-# Project 1 - *Wordle*
+# Project 2 - *Wordle*
 
 Submitted by: **Xiaoai Zhu**
 
-**Wordle** is an app that ... [can generate random words and check if the input word or letter matches the answer] 
+**Wordle** is an app that ... [randomly generate different word (in different theme and number of letters. By simple clicks, you can also change the number of guesses/letters, reset, and isAlien)] 
 
-Time spent: **3** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] App displays a keyboard on the screen
-- [x] When tapping on the keyboard, a letter is shown or deleted (letter selected)
-- [x] User can play a basic version of Wordle, with different goal words each time
+- [x] User can change the number of letters per row (the length of the goal word)
+- [x] User can change the numbers of rows on the board (how many guesses allowed)
+- [x] User can select a new themed set to pull the goal word from
+- [x] User can select "alien wordle", causing the goal word to change after each guess
+
 
 The following **optional** features are implemented:
 
-- [x] Improve and customize the user interface by adding a launchscreen and app icon
-- [ ] Run the app on a device rather than in the simulator
+- [x] App displays a reset button on the top left to reset the game (but make no changes to the settings)
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] List anything else that you can get done to improve the app functionality!
+- There could be more word options, cause now we only have 3 themes and 36 words in total.
+- we can increase the maximum of letters in word.
 
 ## Video Walkthrough
 
-<div>
-    <a href="https://www.loom.com/share/f9b0de0a5bc446168b2c48f8d6dbccbb">
-    </a>
-    <a href="https://www.loom.com/share/f9b0de0a5bc446168b2c48f8d6dbccbb">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f9b0de0a5bc446168b2c48f8d6dbccbb-with-play.gif">
-    </a>
-  </div>
+Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
 
 ## Notes
 
 Describe any challenges encountered while building the app.
-
-- I don't know why but my launch screen didn't work even though I've added one in the file. After I added the launchscreen image, my program will fail during the first simulation, but after that it'll be fine. I don't know why so I eventually remove the launchcreen function.
 
 ## License
 
